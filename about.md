@@ -20,6 +20,9 @@ PS: The theme is <a href="http://muan.co/">Mu-An</a>'s excellent
 <a href='https://github.com/muan/scribble'>Scribble</a> which I've poked at in
 various ham-fisted ways to remove some of the things I didn't need.
 
-https://www.flickr.com/photos/55919472@N00/5854283654/
+PPS: The image at the top of the page is an [Enigma][], taken from
+[skittledog's Flickr stream][skittledog].
 
 [clackity]: http://www.kungfugrippe.com/post/169873399/clackity-noise
+[enigma]: https://www.flickr.com/photos/55919472@N00/5854283654/
+[skittledog]: https://www.flickr.com/photos/55919472@N00/
