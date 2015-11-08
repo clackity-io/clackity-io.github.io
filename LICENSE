@@ -1,7 +1,7 @@
----
+```
 The following license applies to the 'Scribble' theme upon which this
 site's design is based.
----
+```
 
 The MIT License (MIT)
 
@@ -25,9 +25,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
----
+```
 The following license applies to everything else in this repository.
----
+```
 
 Per [CC0](https://creativecommons.org/publicdomain/zero/1.0/), to the
 extent possible under law, Mike West has waived all copyright and related
