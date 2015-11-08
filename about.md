@@ -3,10 +3,23 @@ layout: page
 title: About
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+Merlin Mann's "[Making the Clackity Noise][clackity]" is inspirational. This is
+the second(!) time that I've registered `clackity.io`, and though I'm not at
+all sure that I'll do anything with it this time around, if I do, it's at least
+partially Merlin's fault.
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+I have vague ideas about what I'd like to do with this site, but nothing solid
+yet. Basically, I've noticed that I write a _lot_ of email, and write a _lot_
+of spec text, but practically nothing that lives outside of either of those
+worlds. I hope this will give me a place for the kinds of things that I don't
+typically write down anywhere else. Let's see how it goes.
 
-This theme is made by me. You have a nice day. ♥
+-mike
+
+PS: The theme is <a href="http://muan.co/">Mu-An</a>'s excellent
+<a href='https://github.com/muan/scribble'>Scribble</a> which I've poked at in
+various ham-fisted ways to remove some of the things I didn't need.
 
 https://www.flickr.com/photos/55919472@N00/5854283654/
+
+[clackity]: http://www.kungfugrippe.com/post/169873399/clackity-noise
