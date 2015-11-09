@@ -1,6 +1,9 @@
 title:            Clackity Clack
 description:      Hopefully making the clackity noise.
 url:              https://clackity.io
+author:
+  name: Mike West
+  uri:  https://mikewest.org
 
 links:
   - name:         About

@@ -2,6 +2,7 @@
 layout: post
 title: Making the Clackity Noise
 date: 2015-11-08 21:02:00
+excerpt: So I'm writing again. Hopefully for longer than a week.
 ---
 
 The first thing I did after registering this website's domain name (for the
