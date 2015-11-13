@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Multitasking is hard.
-date: 2015-11-08 21:02:00
-excerpt: Did you know that it's impossible to do two things at once?
+date: 2015-11-13 12:00:00
+excerpt: Did you know that it's impossible to do two things at once? It's true.
 ---
 
 Obviously, truly multitasking is more than difficult. That doesn't seem to stop
